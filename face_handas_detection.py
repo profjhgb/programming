@@ -1,4 +1,9 @@
 #
+# File description in Portuguese, by request.
+#
+# Special thanks to Murtaza Hassan (contact@murtazahassan.com)
+# for some code solutions!
+#
 # Importação de bibliotecas básicas para o funcionamento do app
 # cv2: Computer Vision (visão computacional)
 # CVZone: biblioteca com funções específicas relativas à visão computacional
